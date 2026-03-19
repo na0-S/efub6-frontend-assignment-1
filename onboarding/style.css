@@ -28,7 +28,7 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 31px;
+    gap: 30px;
 }
 
 nav a {
@@ -53,7 +53,7 @@ nav a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 30px; /* 사진과 글 사이 간격 좁히기 */
+    gap: 25px; /* 사진과 글 사이 간격 좁히기 */
     max-width: 900px;
     width: 90%;
 }
